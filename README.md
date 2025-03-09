@@ -4,22 +4,22 @@
 
 ### Початкові зображення
 
-![desktop_image.png](images/original/desktop_image.png)  
-[**Скриншот робочого стола**](images/original/desktop_image.png)
+![desktop_image.png](./images/original/desktop_image.png)  
+[**Скриншот робочого стола**](./images/original/desktop_image.png)
 
 **Розмір**: 1919х1079  
 **Початковий формат**: .png  
 **Вага**: 298.24KB  
 
-![photo_image.jpg](images/original/photo_image.jpg)  
-[**Фотографія**](images/original/photo_image.jpg)
+![photo_image.jpg](./images/original/photo_image.jpg)  
+[**Фотографія**](./images/original/photo_image.jpg)
 
 **Розмір**: 2048х1366  
 **Початковий формат**: .jpg   
 **Вага**: 148.72KB  
 
-![text_image.jpg](images/original/text_image.jpg)  
-[**Зображення із текстом**](images/original/text_image.jpg)
+![text_image.jpg](./images/original/text_image.jpg)  
+[**Зображення із текстом**](./images/original/text_image.jpg)
 
 **Розмір**: 1080х1080  
 **Початковий формат**: .jpg   
@@ -70,7 +70,7 @@
 **AVIF**
 
 Скриншот робочого стола
-![desktop_image.avif](images/AVIF/50%/desktop_image.avif)
+![desktop_image.avif](./images/AVIF/50%/desktop_image.avif)
 | 50% | 75% | 100% |
 |-----|-----|------|
-| ![desktop_image.avif](images/AVIF/50%/desktop_image.avif) | ![desktop_image.avif](images/AVIF/75%/desktop_image.avif) | ![desktop_image.avif](images/AVIF/100%/desktop_image.avif) |
+| ![desktop_image.avif](./images/AVIF/50%/desktop_image.avif) | ![desktop_image.avif](./images/AVIF/75%/desktop_image.avif) | ![desktop_image.avif](./images/AVIF/100%/desktop_image.avif) |
