@@ -71,6 +71,58 @@
 
 Скриншот робочого стола
 
-| 50% | 75% | 100% |
-|-----|-----|------|
-| ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/50%25/desktop_image.avif) | ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/75%25/desktop_image.avif) | ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/100%25/desktop_image.avif) |
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/50%25/desktop_image.avif)
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/75%25/desktop_image.avif) 
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/100%25/desktop_image.avif)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/50%25/photo_image.avif)
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/75%25/photo_image.avif) 
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/100%25/photo_image.avif)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/50%25/text_image.avif)
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/75%25/text_image.avif) 
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/100%25/text_image.avif)
+
+**MozJPEG**
+
+Скриншот робочого стола
+
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/50%25/desktop_image.jpg)
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/75%25/desktop_image.jpg) 
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/100%25/desktop_image.jpg)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/50%25/photo_image.jpg)
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/75%25/photo_image.jpg) 
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/100%25/photo_image.jpg)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/50%25/text_image.jpg)
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/75%25/text_image.jpg) 
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/MozJPEG/100%25/text_image.jpg)
+
+**WebP (lossy)**
+
+Скриншот робочого стола
+
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/50%25/desktop_image.webp)
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/75%25/desktop_image.webp) 
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/100%25/desktop_image.webp)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/50%25/photo_image.webp)
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/75%25/photo_image.webp) 
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/100%25/photo_image.webp)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/50%25/text_image.webp)
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/75%25/text_image.webp) 
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/100%25/text_image.webp)
