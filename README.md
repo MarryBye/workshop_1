@@ -4,8 +4,8 @@
 
 ### Початкові зображення
 
-![desktop_image.png](./images/original/desktop_image.png)  
-[**Скриншот робочого стола**](./images/original/desktop_image.png)
+![desktop_image.png](/images/original/desktop_image.png)  
+[**Скриншот робочого стола**](/images/original/desktop_image.png)
 
 **Розмір**: 1919х1079  
 **Початковий формат**: .png  
