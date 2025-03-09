@@ -4,7 +4,7 @@
 
 ### Початкові зображення
 
-!(https://github.com/MarryBye/workshop_1/blob/main/images/Original/desktop_image.png)
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/Original/desktop_image.png)
 [**Скриншот робочого стола**](/images/original/desktop_image.png)
 
 **Розмір**: 1919х1079  
