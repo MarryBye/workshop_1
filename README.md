@@ -4,22 +4,22 @@
 
 ### Початкові зображення
 
+**Скриншот робочого стола**
 ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/Original/desktop_image.png)
-[**Скриншот робочого стола**](/images/original/desktop_image.png)
 
 **Розмір**: 1919х1079  
 **Початковий формат**: .png  
 **Вага**: 298.24KB  
 
-![photo_image.jpg](./images/original/photo_image.jpg)  
-[**Фотографія**](./images/original/photo_image.jpg)
+**Фотографія**
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/Original/photo_image.jpg)  
 
 **Розмір**: 2048х1366  
 **Початковий формат**: .jpg   
 **Вага**: 148.72KB  
 
-![text_image.jpg](./images/original/text_image.jpg)  
-[**Зображення із текстом**](./images/original/text_image.jpg)
+**Зображення із текстом**
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/Original/text_image.jpg)
 
 **Розмір**: 1080х1080  
 **Початковий формат**: .jpg   
