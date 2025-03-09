@@ -126,3 +126,73 @@
 ![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/50%25/text_image.webp)
 ![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/75%25/text_image.webp) 
 ![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossy)/100%25/text_image.webp)
+
+**WebP (lossless)**
+
+Скриншот робочого стола
+
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossless)/desktop_image.webp)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossless)/photo_image.webp)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/WebP%20(lossless)/text_image.webp)
+
+**PNG**
+
+Скриншот робочого стола
+
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20web/desktop_image.png)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/PNG%20(lossless)/photo_image.png)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/PNG%20(lossless)/text_image.png)
+
+**1200px**
+
+Скриншот робочого стола
+
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20web/desktop_image.png)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20web/photo_image.jpg)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20web/text_image.jpg)
+
+**600px**
+
+Скриншот робочого стола
+
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20mobile/desktop_image.png)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20mobile/photo_image.jpg)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20mobile/text_image.jpg)
+
+**2x**
+
+Скриншот робочого стола
+
+![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20retina/desktop_image.png)
+
+Фотографія
+
+![**Фотографія**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20retina/photo_image.jpg)
+
+Зображення із текстом
+
+![**Зображення із текстом**](https://github.com/MarryBye/workshop_1/blob/main/images/For%20retina/text_image.jpg)
