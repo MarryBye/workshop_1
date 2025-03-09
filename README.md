@@ -73,4 +73,4 @@
 
 | 50% | 75% | 100% |
 |-----|-----|------|
-| ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/50%/desktop_image.png) | ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/75%/desktop_image.png) | ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/100%/desktop_image.png) |
+| ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/50%/desktop_image.avif) | ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/75%/desktop_image.avif) | ![**Скриншот робочого стола**](https://github.com/MarryBye/workshop_1/blob/main/images/AVIF/100%/desktop_image.avif) |
